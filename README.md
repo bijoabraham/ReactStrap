@@ -1,1 +1,1 @@
-# ReactYoYo
+Simple applicaton to learn react, reactstrap
